@@ -7,3 +7,5 @@
 💞️ I'm open to collaborations on projects related to React Native, JAVA, PHP, and other technologies I master.
 
 📫 You can reach me at rsanttos.tech@gmail.com.br
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-santtos&show_icons=true&theme=radical&count_private=true)
