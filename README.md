@@ -1,54 +1,62 @@
 <h1 align="center">Hi 👋, I'm RSANTTOS89</h1>
 
 <p align="center">
-  Senior Software Engineer | Full Stack & Mobile | SaaS Architect | React Native | PHP | DevOps
+  Senior Software Engineer | Full Stack & Mobile | SaaS Architect | React Native | PHP | DevOps | Content Creator
+</p>
+
+<p align="center">
+  🔗 <a href="https://www.linkedin.com/in/rsanttos89/">LinkedIn</a> • 
+  ▶️ <a href="https://www.youtube.com/@rsanttos89">YouTube</a>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-Software Engineer with **10+ years of experience** building and scaling **web systems, SaaS platforms and mobile applications**.
+Software Engineer with **10+ years of experience** designing, building and scaling **software systems, SaaS platforms and mobile applications**.
 
-I work across the full lifecycle of software products — from architecture and backend design to mobile apps and production deployment.
+I work across the entire product lifecycle — from architecture and backend systems to mobile applications and production deployment.
+
+My focus is not just writing code, but building **systems that scale and survive production environments**.
 
 - 📱 Strong expertise in **React Native and mobile ecosystems**
-- 🧩 Experienced in **SaaS architecture, multi-tenant systems and business platforms**
-- ⚙️ Focused on **system design, scalability and clean architecture**
-- 🚀 Passionate about building real-world products that solve business problems
+- 🧩 Experience with **SaaS architecture and multi-tenant systems**
+- ⚙️ Deep focus on **system design, scalability and backend architecture**
+- 🚀 Passionate about turning ideas into real, production-grade products
+- 🎥 I also share knowledge and projects through my **YouTube channel**
 - 🇧🇷 Based in Brazil
 
 ---
 
 ## 🏢 Professional Ecosystem — LauraSoft
 
-I actively contribute to the development of production systems within the **LauraSoft ecosystem**, focused on business automation, SaaS platforms and operational management tools.
+I contribute to the development of production systems inside the **LauraSoft ecosystem**, focused on SaaS platforms, business automation and operational systems.
 
-### 🌐 Production Systems
+### 🌐 Core Systems
 
-- 🔗 **LauraSoft (Company / Ecosystem)**  
+- 🔗 LauraSoft — Ecosystem & Company  
   https://laurasoft.com.br/
 
-- 🔗 **TeamDev — Project & Collaboration Platform**  
+- 🔗 TeamDev — Project & Collaboration Platform  
   https://teamdev.laurasoft.com.br/
 
-- 🔗 **Kaderno — Business Management System**  
+- 🔗 Kaderno — Business Management System  
   https://kaderno.laurasoft.com.br/
 
-- 🔗 **Lojas Unidas — Sales & Retail Platform**  
+- 🔗 Lojas Unidas — Sales & Retail Platform  
   https://lojasunidas.com.br/
 
 ---
 
-## 🧩 Core Expertise
+## 🧩 What I Build
 
-- SaaS architecture (multi-tenant systems)
-- Backend system design and API development
+- SaaS platforms (multi-tenant architecture)
+- Scalable backend systems & APIs
 - Mobile applications (React Native)
-- Authentication, authorization & role-based systems
-- Business process automation
-- Admin dashboards & internal tools
-- Performance optimization & scalable architectures
+- Authentication & authorization systems
+- Business automation tools
+- Admin dashboards & internal systems
+- Performance-focused architecture
 
 ---
 
@@ -79,21 +87,35 @@ I actively contribute to the development of production systems within the **Laur
 - Docker
 - Linux
 - Git & GitHub
-- CI/CD pipelines (basic to intermediate)
-- Server deployment & maintenance
+- CI/CD pipelines
+- Server deployment & monitoring
 
 ---
 
-## 📫 Contact
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=r-santtos&show_icons=true&theme=radical&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-santtos&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 📫 Contact & Social
 
 - 📧 Email: rsanttos.tech@gmail.com.br  
-- 💼 Open to SaaS projects, consulting and collaboration opportunities  
+- 💼 LinkedIn: https://www.linkedin.com/in/rsanttos89/  
+- ▶️ YouTube: https://www.youtube.com/@rsanttos89  
+- 💬 Open to SaaS projects, consulting and collaborations  
 - 🌍 Brazil
 
 ---
 
 ## 🚀 Philosophy
 
-> Building scalable systems is not about writing code — it's about designing solutions that survive production.
+> “Great software is not just code — it is architecture that survives scale, users and time.”
 
-⭐ Focused on real systems. Real users. Real impact.
+⭐ Building real systems. Solving real problems. Creating long-term impact.
