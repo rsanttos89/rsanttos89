@@ -73,18 +73,6 @@ I contribute to the development of multiple production systems inside the **Laur
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=r-santtos&show_icons=true&theme=radical&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-santtos&layout=compact&theme=radical" />
-</p>
-
----
-
 ## 📫 Contact
 
 - 📧 Email: rsanttos.tech@gmail.com.br  
