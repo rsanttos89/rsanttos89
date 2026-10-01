@@ -1,36 +1,38 @@
 <h1 align="center">Hi 👋, I'm RSANTTOS89</h1>
 
 <p align="center">
-  Mobile & Full Stack Developer | React Native | Java | PHP | SaaS Systems | DevOps Enthusiast
+  Senior Software Engineer | Full Stack & Mobile | SaaS Architect | React Native | PHP | DevOps
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I am a software developer focused on building **scalable systems, SaaS platforms and mobile applications**.
+Software Engineer with **10+ years of experience** building and scaling **web systems, SaaS platforms and mobile applications**.
 
-- 📱 Strong focus on **React Native mobile development**
-- 🧩 Experience building **business systems and SaaS platforms**
-- ⚙️ Continuous learning in **DevOps, cloud architecture and system design**
-- 🚀 Passionate about turning ideas into real, production-ready products
+I work across the full lifecycle of software products — from architecture and backend design to mobile apps and production deployment.
+
+- 📱 Strong expertise in **React Native and mobile ecosystems**
+- 🧩 Experienced in **SaaS architecture, multi-tenant systems and business platforms**
+- ⚙️ Focused on **system design, scalability and clean architecture**
+- 🚀 Passionate about building real-world products that solve business problems
 - 🇧🇷 Based in Brazil
 
 ---
 
 ## 🏢 Professional Ecosystem — LauraSoft
 
-I contribute to the development of multiple production systems inside the **LauraSoft ecosystem**, focused on business automation, productivity and management solutions.
+I actively contribute to the development of production systems within the **LauraSoft ecosystem**, focused on business automation, SaaS platforms and operational management tools.
 
-### 🌐 Core Platforms
+### 🌐 Production Systems
 
 - 🔗 **LauraSoft (Company / Ecosystem)**  
   https://laurasoft.com.br/
 
-- 🔗 **TeamDev — Project & Team Management System**  
+- 🔗 **TeamDev — Project & Collaboration Platform**  
   https://teamdev.laurasoft.com.br/
 
-- 🔗 **Kaderno — Business Management Platform**  
+- 🔗 **Kaderno — Business Management System**  
   https://kaderno.laurasoft.com.br/
 
 - 🔗 **Lojas Unidas — Sales & Retail Platform**  
@@ -38,14 +40,15 @@ I contribute to the development of multiple production systems inside the **Laur
 
 ---
 
-## 🧩 What I Build
+## 🧩 Core Expertise
 
-- SaaS platforms (multi-tenant systems)
-- Mobile apps with React Native
-- Backend APIs (Java / PHP)
-- Authentication systems & role-based access control
-- Business automation tools
-- Dashboard systems & admin panels
+- SaaS architecture (multi-tenant systems)
+- Backend system design and API development
+- Mobile applications (React Native)
+- Authentication, authorization & role-based systems
+- Business process automation
+- Admin dashboards & internal tools
+- Performance optimization & scalable architectures
 
 ---
 
@@ -55,30 +58,42 @@ I contribute to the development of multiple production systems inside the **Laur
 - React Native
 - Expo
 
-### 🌐 Backend
-- Java
+### 🌐 Frontend
+- React
+- Next.js
+- Vue.js
+- JavaScript (ES6+)
+- HTML5 / CSS3
+
+### 🔧 Backend
 - PHP
-- Node.js (where applicable)
+- Laravel
+- Node.js (when applicable)
 
 ### 🗄️ Databases
 - PostgreSQL
 - MySQL
+- Firebase
 
 ### ⚙️ DevOps & Infrastructure
 - Docker
 - Linux
 - Git & GitHub
-- CI/CD concepts
-- Server deployment basics
+- CI/CD pipelines (basic to intermediate)
+- Server deployment & maintenance
 
 ---
 
 ## 📫 Contact
 
 - 📧 Email: rsanttos.tech@gmail.com.br  
-- 💼 Open to freelance, SaaS projects and collaboration opportunities  
+- 💼 Open to SaaS projects, consulting and collaboration opportunities  
 - 🌍 Brazil
 
 ---
 
-⭐ Building real systems. Solving real problems. Turning ideas into products.
+## 🚀 Philosophy
+
+> Building scalable systems is not about writing code — it's about designing solutions that survive production.
+
+⭐ Focused on real systems. Real users. Real impact.
